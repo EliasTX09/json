@@ -1,13 +1,9 @@
 [
-  {
-    "name": "TEST 1",
-    "logo": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/dazn/DAZN1.png",
-    "url": "plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-557.php"
-  },
+ 
   {
     "name": "DAZN 1",
     "logo": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/dazn/DAZN1.png",
-    "url": "https://daddylive.dad/embed/stream-426.php"
+    "url": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://daddylive.dad/stream/stream-426.php"
   },
   {
     "name": "DAZN 2",
