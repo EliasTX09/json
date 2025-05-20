@@ -64,6 +64,12 @@
     "name": "Sky Sport Top Event",
     "logo": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl10.png",
     "url": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://daddylive.dad/stream/stream-556.php"
+  },
+  {
+    "name": "Sky Sport Mix",
+    "logo": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl10.png",
+    "url": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://daddylive.dad/stream/stream-557.php"
   }
-
+ 
+      
 ]
