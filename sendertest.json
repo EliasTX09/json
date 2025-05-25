@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "DAZN",
+    "stream_url": "https://daddylive.dad/stream/stream-558.php",
+    "thumbnail": "https://example.com/images/dazn.png"
+  },
+  {
+    "name": "Sky Sport",
+    "stream_url": "https://daddylive.dad/stream/stream-426.php",
+    "thumbnail": "https://example.com/images/sky.png"
+  },
+  {
+    "name": "Eurosport",
+    "stream_url": "https://daddylive.dad/stream/stream-519.php",
+    "thumbnail": "https://example.com/images/eurosport.png"
+  }
+]
