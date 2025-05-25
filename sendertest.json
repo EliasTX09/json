@@ -1,17 +1,72 @@
 [
   {
-    "name": "DAZN",
-    "stream_url": "https://daddylive.dad/stream/stream-558.php",
-    "thumbnail": "https://example.com/images/dazn.png"
+    "name": "DAZN 1",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/dazn/DAZN1.png",
+    "stream_url": "https://daddylive.dad/stream/stream-426.php"
   },
   {
-    "name": "Sky Sport",
-    "stream_url": "https://daddylive.dad/stream/stream-426.php",
-    "thumbnail": "https://example.com/images/sky.png"
+    "name": "DAZN 2",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/dazn/DAZN2.png",
+    "stream_url": "https://daddylive.dad/stream/stream-427.php"
   },
   {
-    "name": "Eurosport",
-    "stream_url": "https://daddylive.dad/stream/stream-519.php",
-    "thumbnail": "https://example.com/images/eurosport.png"
+    "name": "Sky Sport Bundesliga",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl1.png",
+    "stream_url": "https://daddylive.dad/stream/stream-558.php"
+  },
+  {
+    "name": "Sky Sport Bundesliga 2",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl2.png",
+    "stream_url": "https://daddylive.dad/stream/stream-14.php"
+  },
+  {
+    "name": "Sky Sport Bundesliga 3",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl3.png",
+    "stream_url": "https://daddylive.dad/stream/stream-17.php"
+  },
+  {
+    "name": "Sky Sport Bundesliga 4",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl4.png",
+    "stream_url": "https://daddylive.dad/stream/stream-19.php"
+  },
+  {
+    "name": "Sky Sport Bundesliga 5",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl5.png",
+    "stream_url": "https://daddylive.dad/stream/stream-16.php"
+  },
+  {
+    "name": "Sky Sport Bundesliga 6",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl6.png",
+    "stream_url": "https://daddylive.dad/stream/stream-20.php"
+  },
+  {
+    "name": "Sky Sport Bundesliga 7",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl7.png",
+    "stream_url": "https://daddylive.dad/stream/stream-21.php"
+  },
+  {
+    "name": "Sky Sport Bundesliga 8",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl8.png",
+    "stream_url": "https://daddylive.dad/stream/stream-22.php"
+  },
+  {
+    "name": "Sky Sport Bundesliga 9",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl9.png",
+    "stream_url": "https://daddylive.dad/stream/stream-18.php"
+  },
+  {
+    "name": "Sky Sport Bundesliga 10",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl10.png",
+    "stream_url": "https://daddylive.dad/stream/stream-15.php"
+  },
+  {
+    "name": "Sky Sport Top Event",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl10.png",
+    "stream_url": "https://daddylive.dad/stream/stream-556.php"
+  },
+  {
+    "name": "Sky Sport Mix",
+    "thumbnail": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl10.png",
+    "stream_url": "https://daddylive.dad/stream/stream-557.php"
   }
 ]
