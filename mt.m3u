@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://lo1.in/ger/satt1.png" group-title="EU | GERMANY HD",[COLORpink]DE| SAT 1 SD[/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/62801.m3u8
+
 #EXTINF:-1 group-title="EU | GERMANY FHD" tvg-logo="https://lo1.in/ger/skyb.png",[COLORpink]DE| SKY SPORT BUNDESLIGA FHD[/COLOR]
 http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29202.m3u8
 
