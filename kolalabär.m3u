@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyb.png",[COLOR pink] SKY SPORT BUNDESLIGA HD[/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29201.m3u8
+
+#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd1.png",[COLOR pink] SKY SPORT BUNDESLIGA 1 HD[/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164494.m3u8
+
+#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd2.png",[COLOR pink] SKY SPORT BUNDESLIGA 2 HD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16243.m3u8
+
+#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd3.png",[COLOR pink] SKY SPORT BUNDESLIGA 3 HD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16242.m3u8
+
+#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd4.png",[COLOR pink] SKY SPORT BUNDESLIGA 4 HD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16241.m3u8
+
+#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd5.png",[COLOR pink] SKY SPORT BUNDESLIGA 5 HD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16240.m3u8
+
+#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd6.png",[COLOR pink] SKY SPORT BUNDESLIGA 6 HD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16239.m3u8
+
+#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd7.png",[COLOR pink] SKY SPORT BUNDESLIGA 7 HD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16238.m3u8
+
+#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd8.png",[COLOR pink] SKY SPORT BUNDESLIGA 8 HD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16237.m3u8
+
+#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd9.png",[COLOR pink] SKY SPORT BUNDESLIGA 9 HD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/322997.m3u8
+
+#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd10.png",[COLOR pink] SKY SPORT BUNDESLIGA 10 HD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16235.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ger/daznbbb.png" group-title="EU | GERMANY HD",[COLOR pink] DAZN 1 BAR SD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/37212.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ger/dz2br.png" group-title="EU | GERMANY HD",[COLOR pink] DAZN 2 BAR SD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/37211.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ger/rtl2.png" group-title="EU | GERMANY HD",[COLOR pink] RTLII ZWEI SD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82110.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ger/rtl0.png" group-title="EU | GERMANY HD",[COLOR pink] RTL SD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82106.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ger/supr.png" group-title="EU | GERMANY HD",[COLOR pink] SUPER RTL SD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82103.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/fr/dischaa.png" group-title="EU | GERMANY HD",[COLOR pink] DISNEY CHANNEL HD[/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164455.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ger/dsycnmg.png" group-title="EU | GERMANY HD",[COLOR pink] DISNEY CINEMAGIC HD[/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164456.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ger/nitro.png" group-title="EU | GERMANY HD",[COLOR pink] NITRO SD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/62802.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ger/kabl.png" group-title="EU | GERMANY HD",[COLOR pink] KABEL EINS SD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82117.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ger/prsbn.png" group-title="EU | GERMANY HD",[COLOR pink] PRO 7 SD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82115.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ger/prs.png" group-title="EU | GERMANY HD",[COLOR pink] PRO 7 FUN SD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/38243.m3u8
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ger/prbnmm.png" group-title="EU | GERMANY HD",[COLOR pink] PRO 7 MAXX SD [/COLOR]
+http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82116.m3u8
