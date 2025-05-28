@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyb.png",[COLOR pink] SKY SPORT BUNDESLIGA HD[/COLOR]
+#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyb.png", SKY SPORT BUNDESLIGA HD
 http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29201.m3u8
 
 #EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd1.png",[COLOR pink] SKY SPORT BUNDESLIGA 1 HD[/COLOR]
