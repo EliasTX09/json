@@ -69,15 +69,6 @@
     "name": "Sky Sport Mix",
     "logo": "https://raw.githubusercontent.com/EliasTX09/resources/main/sender/sky/skybl10.png",
     "url": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://daddylive.dad/stream/stream-557.php"
-  },
-  {
-    "title": "DE| NITRO",
-    "thumbnail": "https://lo1.in/ger/nitro.png",
-    "link(FHD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164255.m3u8",
-    "link(HD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164398.m3u8",
-    "link(SD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/62802.m3u8",
-    "link(HEVC)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164111.m3u8"
   }
- 
-      
+    
 ]
