@@ -11,5 +11,49 @@
     "link(HD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164398.m3u8",
     "link(SD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/62802.m3u8",
     "link(HEVC)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164111.m3u8"
+  },
+  {
+    "title": "[COLOR black]D[/COLOR][COLOR red]E[/COLOR][COLOR yellow]U[/COLOR] [COLOR lime]|[/COLOR]  PRO 7",
+    "thumbnail": "https://lo1.in/ger/prsbn.png",
+    "link(FHD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164249.m3u8",
+    "link(HD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164392.m3u8",
+    "link(SD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82115.m3u8",
+    "link(HEVC)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164105.m3u8"
+  },
+  {
+    "title": "[COLOR black]D[/COLOR][COLOR red]E[/COLOR][COLOR yellow]U[/COLOR] [COLOR lime]|[/COLOR]  KABEL EINS",
+    "thumbnail": "https://lo1.in/ger/kabl.png",
+    "link(FHD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164245.m3u8",
+    "link(HD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164388.m3u8",
+    "link(SD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82117.m3u8",
+    "link(HEVC)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164101.m3u8"
+  },
+  {
+    "title": "[COLOR black]D[/COLOR][COLOR red]E[/COLOR][COLOR yellow]U[/COLOR] [COLOR lime]|[/COLOR]  KABEL EINS CLASSICS",
+    "thumbnail": "https://lo1.in/ger/kablsc.png",
+    "link(FHD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164246.m3u8",
+    "link(HD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164389.m3u8",
+    "link(SD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/38227.m3u8"
+  },
+  {
+    "title": "[COLOR black]D[/COLOR][COLOR red]E[/COLOR][COLOR yellow]U[/COLOR] [COLOR lime]|[/COLOR]  SKY CINEMA THRILLER",
+    "thumbnail": "https://lo1.in/ger/skycnth.png",
+    "link(FHD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164326.m3u8",
+    "link(HD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164469.m3u8",
+    "link(HEVC)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/400205001.m3u8"
+  },
+  {
+    "title": "[COLOR black]D[/COLOR][COLOR red]E[/COLOR][COLOR yellow]U[/COLOR] [COLOR lime]|[/COLOR]  SKY CINEMA PREMIEREN +24",
+    "thumbnail": "https://lo1.in/ger/skycnpl2.png",
+    "link(FHD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164328.m3u8",
+    "link(HD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164471.m3u8",
+    "link(HEVC)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/400205003.m3u8"
+  },
+  {
+    "title": "[COLOR black]D[/COLOR][COLOR red]E[/COLOR][COLOR yellow]U[/COLOR] [COLOR lime]|[/COLOR]  SKY CINEMA CLASSICS",
+    "thumbnail": "https://lo1.in/ger/skycbcla.png",
+    "link(FHD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164334.m3u8",
+    "link(HD)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164477.m3u8",
+    "link(HEVC)": "http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/400204997.m3u8"
   }
 ]
