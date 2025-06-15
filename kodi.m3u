@@ -1,0 +1,257 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/dsr1.png" ,Das Erste
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164387.m3u8
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/oly/ded.png" ,ZDF
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164402.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/rtl0.png" ,RTL
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164397.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/rtl0.png" ,RTL II
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164397.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/satt1.png" ,Sat.1
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164401.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/prsbn.png" ,Prosieben
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164392.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/voxx.png" ,VOX
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164431.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/voxx.png" ,VOXup
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/400201469.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/kabl.png" ,kabel eins
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164388.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/prbnmm.png" ,ProSieben Maxx
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/170683.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/prs.png" ,ProSieben FUN
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164394.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/nitro.png" ,NITRO
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164398.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/rtlvi.png" ,RTL Living
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164435.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/rtlcrm.png" ,RTL Crime
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164425.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/rtlpa.png" ,RTL Passion
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164427.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/RTL UP.png" ,RTLup
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82105.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/six.png" ,Sixx
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164426.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/satgolhh.png" ,SAT.1 Gold
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164400.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/niedbaa.png" ,Sat.1 Emotions
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/400201470.m3u8
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/kablsc.png" ,kabel eins classics
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164389.m3u8
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/art.png" ,ARTE
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164444.m3u8
+#EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/srvv.png" ,Servus TV
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164522.m3u8
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/mdr10.png" ,MDR
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/38239.m3u8
+#EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/tel5.png" ,Tele 5
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164430.m3u8
+#EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/sr.png" ,SWR/SR
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/400201465.m3u8
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/sr.png" ,SR
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/400201465.m3u8
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/BR FERNSEHEN SUD.png" ,BR
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/156524.m3u8
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/hr.png" ,HR
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164418.m3u8
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/rberll.png" ,RBB
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/31214.m3u8
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/sr.png" ,WDR
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/400201465.m3u8
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/dtch.png" ,NDR
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164453.m3u8
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/sat.png" ,3sat
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164384.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://lo1.in/ger/qvc.png" ,QVC
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/333481.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://lo1.in/ger/qvc2c.png" ,QVC2
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/156532.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://lo1.in/ger/qvcstt0.png" ,QVC Style
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/156531.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://lo1.in/ger/13tv.png" ,123.tv
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/400204365.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://lo1.in/ger/HSE24.png" ,HSE
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/156461.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://lo1.in/us/rbull.png" ,HSE Full
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/32136.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://lo1.in/ger/HSE24 EXTRA.png" ,HSE Extra
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/156462.m3u8
+#EXTINF:-1 group-title="Doku" tvg-logo="https://lo1.in/ger/SKY NATURE.png" ,Sky Nature
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/156505.m3u8
+#EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/skysern.png" ,Sky Documentaries
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164486.m3u8
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/oly/ded.png" ,ZDFinfo
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164403.m3u8
+#EXTINF:-1 group-title="Doku" tvg-logo="https://lo1.in/ger/welth.png" ,WELT
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164432.m3u8
+#EXTINF:-1 group-title="Doku" tvg-logo="https://lo1.in/ger/ntv.png" ,n-tv
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164406.m3u8
+#EXTINF:-1 group-title="Doku" tvg-logo="https://lo1.in/sp/dmaxx.png" ,DMAX
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164446.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/dtch.png" ,Sky Cinema Highlights
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/54291.m3u8
+#EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/SKY CI.png" ,Sky Crime
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/156502.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycnprm.png" ,Sky Cinema Premieren
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164473.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycnact.png" ,Sky Cinema Action
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/170679.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycnfm.png" ,Sky Cinema Family
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164472.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycbcla.png" ,Sky Cinema Classics
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164477.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycn.png" ,Sky Cinema Best Of
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/156481.m3u8
+#EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/skylan.png" ,Sky Atlantic
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164481.m3u8
+#EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/skykr.png" ,Sky Krimi
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164482.m3u8
+#EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/foxs.png" ,Sky Replay
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164423.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/wartv11.png" ,Warner TV Comedy
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164484.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/wartv12.png" ,Warner TV Film
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164483.m3u8
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/wartv00.png" ,Warner TV Serie
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164428.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://lo1.in/ger/cmdcntt.png" ,COMEDY CENTRAL
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164485.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspd1.png" ,Sky Sport Bundesliga 1
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164494.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspd1.png" ,Sky Sport Bundesliga 2
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164494.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspd1.png" ,Sky Sport Bundesliga 3
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164494.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspd1.png" ,Sky Sport Bundesliga 4
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164494.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspd1.png" ,Sky Sport Bundesliga 5
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164494.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspd1.png" ,Sky Sport Bundesliga 6
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164494.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspd1.png" ,Sky Sport Bundesliga 7
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164494.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspd1.png" ,Sky Sport Bundesliga 8
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164494.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspd1.png" ,Sky Sport Bundesliga 9
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164494.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspd1.png" ,Sky Sport Bundesliga 10
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164494.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DAZN NBA.png" ,Dazn
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/156476.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/daznbbb.png" ,DAZN 1
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164488.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/dz2br.png" ,DAZN 2
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164489.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/daznbb.png" ,Dazn Rise
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82238.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/RTL+ SPORT.png" ,RTL+ SPORT EVENT 1
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29212.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/RTL+ SPORT.png" ,RTL+ SPORT EVENT 2
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29211.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/RTL+ SPORT.png" ,RTL+ SPORT EVENT 3
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29210.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/RTL+ SPORT.png" ,RTL+ SPORT EVENT 4
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29209.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/RTL+ SPORT.png" ,RTL+ SPORT EVENT 5
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29208.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/RTL+ SPORT.png" ,RTL+ SPORT EVENT 6
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29207.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/RTL+ SPORT.png" ,RTL+ SPORT EVENT 7 Full
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29206.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/RTL+ SPORT.png" ,RTL+ SPORT EVENT 8 Full
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29205.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/RTL+ SPORT.png" ,RTL+ SPORT EVENT 9 Full
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29204.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/RTL+ SPORT.png" ,RTL+ SPORT EVENT 10 Full
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29203.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" ,Sky Sport Premier League
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/79117.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skysp.png" ,Sky Sport 1
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164495.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skysp2.png" ,Sky Sport 2
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164496.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skysp2.png" ,Sky Sport 3
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164496.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skysp2.png" ,Sky Sport 4
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164496.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skysp2.png" ,Sky Sport 5
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164496.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skysp2.png" ,Sky Sport 6
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164496.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skysp2.png" ,Sky Sport 7
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164496.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skysp2.png" ,Sky Sport 8
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164496.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skysp2.png" ,Sky Sport 9
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164496.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspns.png" ,Sky Sports News
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164507.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspf.png" ,Sky Sport F1
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/379652.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/SKY SPORT TENNIS.png" ,Sky Sport Tennis
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/79113.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" ,Sky Sport Premier League
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/79117.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/SKY SPORT MIX.png" ,Sky Sport Mix
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/79115.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/SKY SPORT GOLF.png" ,Sky Sport Golf
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/79111.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/MY TEAM 18.png" ,FUSSBALL.TV 1
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/24040.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/MY TEAM 18.png" ,FUSSBALL.TV 2
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/24040.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/MY TEAM 18.png" ,FUSSBALL.TV 3
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/24040.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/daznbbb.png" ,EuroSport 1
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164490.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/EUROSPORTt.png" ,Eurosport 2
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164491.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/spp1.png" ,SPORT1
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164508.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 1
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346377.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 2
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346378.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 3
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346417.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 4
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346418.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 5
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346432.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 6
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346464.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 7
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346478.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 8
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346479.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 9
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346480.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 10
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346481.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 11
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346377.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 12
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346378.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 13
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346417.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 14
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346418.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/DYN.png" ,DYN SPORT 15
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/401346432.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspau.png" ,sky Sport Austria 1 HD
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164506.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspau.png" ,sky Sport Austria 2 HD
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164506.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspau.png" ,sky Sport Austria 3 HD
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164506.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspau.png" ,sky Sport Austria 4 HD
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164506.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspau.png" ,sky Sport Austria 5 HD
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164506.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspau.png" ,sky Sport Austria 6 HD
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164506.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspau.png" ,sky Sport Austria 7 HD
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164506.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://lo1.in/ger/skyspau.png" ,sky Sport Austria 8 HD
+plugin://plugin.video.madtitansports/sportjetextractors/play?urls=jetproxy://http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164506.m3u8
