@@ -6,7 +6,7 @@ plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-a
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164402.m3u8
 #EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/rtl0.png" ,RTL
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164397.m3u8
-#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/rtl0.png" ,RTL II
+#EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/rtl0.png" ,RTLZWEI
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164397.m3u8
 #EXTINF:-1 group-title="Privat" tvg-logo="https://lo1.in/ger/satt1.png" ,Sat.1
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164401.m3u8
@@ -42,7 +42,7 @@ plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-a
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164389.m3u8
 #EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/art.png" ,ARTE
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164444.m3u8
-#EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/srvv.png" ,Servus TV
+#EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/srvv.png" ,Servus TV Österreich
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164522.m3u8
 #EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/mdr10.png" ,MDR
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/38239.m3u8
@@ -86,25 +86,25 @@ plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-a
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164403.m3u8
 #EXTINF:-1 group-title="Doku" tvg-logo="https://lo1.in/ger/welth.png" ,WELT
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164432.m3u8
-#EXTINF:-1 group-title="Doku" tvg-logo="https://lo1.in/ger/ntv.png" ,n-tv
+#EXTINF:-1 group-title="Doku" tvg-logo="https://lo1.in/ger/ntv.png" ,ntv
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164406.m3u8
 #EXTINF:-1 group-title="Doku" tvg-logo="https://lo1.in/sp/dmaxx.png" ,DMAX
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164446.m3u8
-#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/dtch.png" ,Sky Cinema Highlights
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/dtch.png" ,Sky Cinema Highlights HD
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/54291.m3u8
 #EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/SKY CI.png" ,Sky Crime
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/156502.m3u8
-#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycnprm.png" ,Sky Cinema Premieren
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycnprm.png" ,Sky Cinema Premiere HD
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164473.m3u8
-#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycnact.png" ,Sky Cinema Action
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycnact.png" ,Sky Cinema Action HD
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/170679.m3u8
-#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycnfm.png" ,Sky Cinema Family
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycnfm.png" ,Sky Cinema Family HD
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164472.m3u8
-#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycbcla.png" ,Sky Cinema Classics
+#EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycbcla.png" ,Sky Cinema Classics HD
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164477.m3u8
 #EXTINF:-1 group-title="Filme" tvg-logo="https://lo1.in/ger/skycn.png" ,Sky Cinema Best Of
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/156481.m3u8
-#EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/skylan.png" ,Sky Atlantic
+#EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/skylan.png" ,Sky Atlantic HD
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164481.m3u8
 #EXTINF:-1 group-title="Sonstige" tvg-logo="https://lo1.in/ger/skykr.png" ,Sky Krimi
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164482.m3u8
