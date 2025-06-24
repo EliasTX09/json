@@ -92,7 +92,7 @@ def list_main_menu():
     li = xbmcgui.ListItem(label="Ersatzsender")
     xbmcplugin.addDirectoryItem(handle=HANDLE, url=url, listitem=li, isFolder=True)
 
-    li = xbmcgui.ListItem(label="[B][COLORyellow]Sender Laden(...TV)[/COLOR][/B]")
+    li = xbmcgui.ListItem(label="[B][COLORyellow]Sender Laden[/COLOR][/B]")
     url = f"{sys.argv[0]}?action=setup_iptv"
     xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=url, listitem=li, isFolder=False)
 
