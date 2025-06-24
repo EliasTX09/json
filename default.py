@@ -84,12 +84,12 @@ def list_main_menu():
         xbmcplugin.addDirectoryItem(handle=HANDLE, url=url, listitem=li, isFolder=True)
 
     url = f"{BASE_URL}?action=list_channels"
-    li = xbmcgui.ListItem(label="[COLOR lime]100% zuverlässige Sender[/COLOR]")
+    li = xbmcgui.ListItem(label="[COLOR lime]Sender[/COLOR]")
     xbmcplugin.addDirectoryItem(handle=HANDLE, url=url, listitem=li, isFolder=True)
 
 
     url = f"{BASE_URL}?action=list_sender"
-    li = xbmcgui.ListItem(label="Sender")
+    li = xbmcgui.ListItem(label="Ersatzsender")
     xbmcplugin.addDirectoryItem(handle=HANDLE, url=url, listitem=li, isFolder=True)
 
     li = xbmcgui.ListItem(label="[B][COLORyellow]Sender Laden...[/COLOR][/B]")
