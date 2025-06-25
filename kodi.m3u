@@ -1,6 +1,6 @@
 
 ﻿#EXTM3U
-#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/dsr1.png" ,Dsfs Erste
+#EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/ger/dsr1.png" ,Dary Erste
 http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164345.m3u8
 #EXTINF:-1 group-title="Öffentlich" tvg-logo="https://lo1.in/oly/ded.png" ,ZDF
 plugin://plugin.video.bundesliga/?action=play_m3u8&stream=http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164402.m3u8
