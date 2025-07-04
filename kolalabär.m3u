@@ -1,70 +1,79 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyb.png", SKY SPORT BUNDESLIGA HD
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/29201.m3u8
-
-#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd1.png", SKY SPORT BUNDESLIGA 1 HD
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164494.m3u8
-
-#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd2.png",SKY SPORT BUNDESLIGA 2 HD
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16243.m3u8
-
-#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd3.png",[COLOR pink] SKY SPORT BUNDESLIGA 3 HD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16242.m3u8
-
-#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd4.png",[COLOR pink] SKY SPORT BUNDESLIGA 4 HD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16241.m3u8
-
-#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd5.png",[COLOR pink] SKY SPORT BUNDESLIGA 5 HD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16240.m3u8
-
-#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd6.png",[COLOR pink] SKY SPORT BUNDESLIGA 6 HD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16239.m3u8
-
-#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd7.png",[COLOR pink] SKY SPORT BUNDESLIGA 7 HD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16238.m3u8
-
-#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd8.png",[COLOR pink] SKY SPORT BUNDESLIGA 8 HD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16237.m3u8
-
-#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd9.png",[COLOR pink] SKY SPORT BUNDESLIGA 9 HD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/322997.m3u8
-
-#EXTINF:-1 group-title="EU | GERMANY HD" tvg-logo="https://lo1.in/ger/skyspd10.png",[COLOR pink] SKY SPORT BUNDESLIGA 10 HD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/16235.m3u8
-
-#EXTINF:-1 tvg-logo="https://lo1.in/ger/daznbbb.png" group-title="EU | GERMANY HD",[COLOR pink] DAZN 1 BAR SD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/37212.m3u8
-
-#EXTINF:-1 tvg-logo="https://lo1.in/ger/dz2br.png" group-title="EU | GERMANY HD",[COLOR pink] DAZN 2 BAR SD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/37211.m3u8
-
-#EXTINF:-1 tvg-logo="https://lo1.in/ger/rtl2.png" group-title="EU | GERMANY HD",[COLOR pink] RTLII ZWEI SD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82110.m3u8
-
-#EXTINF:-1 tvg-logo="https://lo1.in/ger/rtl0.png" group-title="EU | GERMANY HD",[COLOR pink] RTL SD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82106.m3u8
-
-#EXTINF:-1 tvg-logo="https://lo1.in/ger/supr.png" group-title="EU | GERMANY HD",[COLOR pink] SUPER RTL SD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82103.m3u8
-
-#EXTINF:-1 tvg-logo="https://lo1.in/fr/dischaa.png" group-title="EU | GERMANY HD",[COLOR pink] DISNEY CHANNEL HD[/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164455.m3u8
-
-#EXTINF:-1 tvg-logo="https://lo1.in/ger/dsycnmg.png" group-title="EU | GERMANY HD",[COLOR pink] DISNEY CINEMAGIC HD[/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/164456.m3u8
-
-#EXTINF:-1 tvg-logo="https://lo1.in/ger/nitro.png" group-title="EU | GERMANY HD",[COLOR pink] NITRO SD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/62802.m3u8
-
-#EXTINF:-1 tvg-logo="https://lo1.in/ger/kabl.png" group-title="EU | GERMANY HD",[COLOR pink] KABEL EINS SD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82117.m3u8
-
-#EXTINF:-1 tvg-logo="https://lo1.in/ger/prsbn.png" group-title="EU | GERMANY HD",[COLOR pink] PRO 7 SD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82115.m3u8
-
-#EXTINF:-1 tvg-logo="https://lo1.in/ger/prs.png" group-title="EU | GERMANY HD",[COLOR pink] PRO 7 FUN SD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/38243.m3u8
-
-#EXTINF:-1 tvg-logo="https://lo1.in/ger/prbnmm.png" group-title="EU | GERMANY HD",[COLOR pink] PRO 7 MAXX SD [/COLOR]
-http://expisyyr.iptv-allindig.com:80/live/EMJHD73R/6YC99F9X/82116.m3u8
+#EXTINF:-1 ,DAZN 1 HD
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/100
+#EXTINF:-1 ,DAZN 2 HD
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/101
+#EXTINF:-1 ,Sky Sport Bundesliga 1
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/128
+#EXTINF:-1 ,Sky Sport Bundesliga 2
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/129
+#EXTINF:-1 ,Sky Sport Bundesliga 3
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/130
+#EXTINF:-1 ,Sky Sport Bundesliga 4
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/131
+#EXTINF:-1 ,Sky Sport Bundesliga 5
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/132
+#EXTINF:-1 ,Sky Sport Bundesliga 6
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/133
+#EXTINF:-1 ,Sky Sport Bundesliga 7
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/134
+#EXTINF:-1 ,Sky Sport Bundesliga 8
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/135
+#EXTINF:-1 ,Sky Sport Bundesliga 9
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/136
+#EXTINF:-1 ,Sky Sport Bundesliga 10
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/137
+#EXTINF:-1 ,Sky Sport Austria
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/127
+#EXTINF:-1 ,Sky Sport 1
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/121
+#EXTINF:-1 ,Sky Sport 2
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/122
+#EXTINF:-1 ,Sky Sport 3
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/123
+#EXTINF:-1 ,Sky Sport 4
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/124
+#EXTINF:-1 ,Sky Sport 5
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/125
+#EXTINF:-1 ,Sky Sport 6
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/126
+#EXTINF:-1 ,Eurosport 1
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/98
+#EXTINF:-1 ,Eurosport 2
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/99
+#EXTINF:-1 ,ARD
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/226
+#EXTINF:-1 ,ZDF
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/227
+#EXTINF:-1 ,RTL
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/144
+#EXTINF:-1 ,RTL II
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/145
+#EXTINF:-1 ,kabel eins
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/146
+#EXTINF:-1 ,ProSieben
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/148
+#EXTINF:-1 ,Sat.1
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/152
+#EXTINF:-1 ,Prosieben MAX
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/674
+#EXTINF:-1 ,RTL Nitro
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/252
+#EXTINF:-1 ,VOX
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/150
+#EXTINF:-1 ,DMAX HD
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/288
+#EXTINF:-1 ,Sky Cinema Classics
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/173
+#EXTINF:-1 ,Sky Action
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/286
+#EXTINF:-1 ,13th Street HD
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/159
+#EXTINF:-1 ,Warner Film
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/702
+#EXTINF:-1 ,Warner Serie
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/167
+#EXTINF:-1 ,Sky Cinema Best of Hits
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/615
+#EXTINF:-1 ,Sky Cinema Premieren
+http://iptv3.kbc.al:25461/Xoni/g2CjGWmG6x/614
