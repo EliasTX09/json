@@ -281,3 +281,17 @@ http://ipc.proipciptv.com:8000/Rachedtvtv0506/H65Ts6Zrch/84010
 http://ipc.proipciptv.com:8000/Rachedtvtv0506/H65Ts6Zrch/84011
 #EXTINF:-1,PULS 24 HD
 http://ipc.proipciptv.com:8000/Rachedtvtv0506/H65Ts6Zrch/84012
+#EXTINF:-1 group-title="DE ✦ SPORT",DE: FUSSBALL.TV 1
+http://euroserver365.xyz:8080/4c:c9:5e:df:9e:77/191225tazici/343728
+#EXTINF:-1 group-title="DE | WM 2026" tvg-logo="https://spicture8.de/projekt/nimbus/Buehne/Festnetz/telekom-x-fifa-wm.png",DE: Fussball.TV 1 UHD
+http://euro.artemisdede.com:8080/zUcq5t4Xcz/gQJyMXaA4f/1405611
+#EXTINF:-1 group-title="DE | WM 2026" tvg-logo="https://spicture8.de/projekt/nimbus/Buehne/Festnetz/telekom-x-fifa-wm.png",DE: FUSSBALL.TV 1 HD+
+http://euro.artemisdede.com:8080/zUcq5t4Xcz/gQJyMXaA4f/1014192
+#EXTINF:-1 group-title="DE | WM 2026" tvg-logo="https://spicture8.de/projekt/nimbus/Buehne/Festnetz/telekom-x-fifa-wm.png",DE: FUSSBALL.TV 1 HD
+http://euro.artemisdede.com:8080/zUcq5t4Xcz/gQJyMXaA4f/1367689
+#EXTINF:-1 group-title="DE | WM 2026" tvg-logo="https://spicture8.de/projekt/nimbus/Buehne/Festnetz/telekom-x-fifa-wm.png",DE: Fussball.TV 1 UHD
+http://euro.artemisdede.com:8080/yasukan598/fRxyj9XN/1405611
+#EXTINF:-1 group-title="DE | WM 2026" tvg-logo="https://spicture8.de/projekt/nimbus/Buehne/Festnetz/telekom-x-fifa-wm.png",DE: FUSSBALL.TV 1 HD+
+http://euro.artemisdede.com:8080/yasukan598/fRxyj9XN/1014192
+#EXTINF:-1 group-title="DE | WM 2026" tvg-logo="https://spicture8.de/projekt/nimbus/Buehne/Festnetz/telekom-x-fifa-wm.png",DE: FUSSBALL.TV 1 HD
+http://euro.artemisdede.com:8080/yasukan598/fRxyj9XN/1367689
